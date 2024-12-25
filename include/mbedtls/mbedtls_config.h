@@ -179,7 +179,7 @@
  * The value of this symbol is typically a path in double quotes, either
  * absolute or relative to a directory on the include search path.
  */
-//#define MBEDTLS_USER_CONFIG_FILE "/dev/null"
+#define MBEDTLS_USER_CONFIG_FILE "mbedtls_alt/mbedtls_user_config.h"
 
 /** \} name SECTION: General configuration options */
 
